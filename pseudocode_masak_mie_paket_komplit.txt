@@ -1,0 +1,39 @@
+procedure masak_mie_instan_dan_telur_dan_sosis_kazler():
+    // Langkah 1: Siapkan bahan-bahan
+    mie_instan = mie_instan_rasa_ayam_bawang
+    telur = telur_rebus
+    sosis = sosis_kazler
+    air = air_bersih
+    panci = panci_besar
+    sendok = sendok_makan
+    mangkuk = mangkuk
+
+    // Langkah 2: Rebus telur
+    tambahkan air ke panci
+    panaskan panci hingga mendidih
+    masukkan telur ke dalam panci yang sudah mendidih
+    rebus telur selama 8-10 menit
+    setelah matang, angkat telur dan tiriskan airnya
+    kupas telur dan sisihkan
+
+    // Langkah 3: Rebus mie instan
+    tambahkan air ke panci yang sama
+    panaskan panci hingga mendidih
+    masukkan mie instan ke dalam panci yang sudah mendidih
+    masak mie instan selama 3-4 menit atau sesuai petunjuk kemasan
+    setelah matang, tiriskan airnya
+
+    // Langkah 4: Siapkan sosis
+    panaskan wajan
+    panggang sosis di wajan hingga matang, sesuai selera
+    setelah matang, angkat sosis dan potong-potong sesuai selera
+
+    // Langkah 5: Penyajian
+    ambil mangkuk
+    masukkan mie instan yang sudah matang ke dalam mangkuk
+    tambahkan telur rebus yang sudah dipotong-potong
+    tambahkan potongan sosis kazler
+    sajikan dan nikmati!
+
+// Panggil prosedur masak_mie_instan_dan_telur_dan_sosis_kazler
+masak_mie_instan_dan_telur_dan_sosis_kazler()
